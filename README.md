@@ -1,15 +1,13 @@
-# Basic Sample Hardhat Project
+<p>This is a decentralized application for minting NFts that are generated and stored on-chain</p><br>
+<p>It was developed with hardhat</p>
+<h3>Project directory</h3>
+<p> Contracts - contains the smart contract code(MyEpicNFT.sol)</p>
+<p> Clients - contains the Frontend code written in react</p>
+<p> Scripts - contains the code used for deploying the contract </p> <br>
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+<p> To compile the contract, run npx hardhat run scripts/run.js</p>
 
-Try running some of the following tasks:
+The frontend has been deployed on -- https://upbeat-agnesi-01ee02.netlify.app/
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
+
 ```
