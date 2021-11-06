@@ -7,7 +7,7 @@
 
 <p> To compile the contract, run npx hardhat run scripts/run.js</p>
 
-The frontend has been deployed on -- https://upbeat-agnesi-01ee02.netlify.app/
+The frontend has been deployed on -- https://mynftcollections.netlify.app/
 
 
 ```
